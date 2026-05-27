@@ -1,5 +1,4 @@
-RentInvoice.in is built for any rental business in India, including:
-
+RentInvoice.in is built for any rental business in India for rental management application including:
     Clothing & costume rental shops (sherwani, lehenga, bridal wear)
     Wedding and fashion rental boutiques
     Car and vehicle rental operators
